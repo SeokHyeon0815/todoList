@@ -14,7 +14,7 @@ ToDoList는 사용자가 일정을 관리하고 할 일 목록을 작성할 수 
 - 할 일 삭제: 사용자가 완료한 할 일을 목록에서 삭제할 수 있습니다.
 - 완료 표시: 할 일이 완료되면 해당 항목에 완료 표시를 할 수 있습니다.
 
-## 스크린샷 또는 데모 링크 (Screenshots or Demo Link)
+## 스크린샷 또는 링크 (Screenshots or Link)
 ![화면1](https://github.com/SeokHyeon0815/todoList/assets/105362228/44139971-6ad6-431b-98b5-12fafc3b707a)
 ![화면2](https://github.com/SeokHyeon0815/todoList/assets/105362228/5021c694-b557-4f42-bf29-8fbb15b3c71e)
 
